@@ -1,7 +1,7 @@
 +++
 title = 'Hi Rosie'
 date = 2021-07-27T11:22:23-07:00
-draft = true
+draft = false
 description = '生老二的过程'
 tags = ['豆瓣搬运']
 +++
