@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "hexo-renderer-swig": "^2.0.0"
+  }
+}
