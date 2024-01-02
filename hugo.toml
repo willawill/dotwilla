@@ -2,3 +2,17 @@ baseURL = 'https://willawill.github.io'
 languageCode = 'en-us'
 title = '地主家也没有余粮'
 theme = 'archie'
+pygmentsstyle = "dracula"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+enableEmoji = true
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
