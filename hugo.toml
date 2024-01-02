@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://willawill.github.io/'
 languageCode = 'en-us'
 title = '地主家也没有余粮'
-theme = 'ananke'
+theme = 'archie'
